@@ -15,9 +15,7 @@ This project aims to analyze and predict car prices using various machine learni
 - [Model Evaluation](#model-evaluation)
 - [Visualization](#visualization)
 - [Requirements](#requirements)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [License](#license)
+
 
 ## Project Description
 
